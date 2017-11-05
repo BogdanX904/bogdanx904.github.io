@@ -1,0 +1,32 @@
+h1 {
+ color: maroon;
+ font-weight: bolder;
+}
+.atom {
+  font-weight: bold;
+}
+.last {
+  font-family: Viper Squadron;
+font-weight: bold;
+}
+#h1 {
+  color: inherit;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 40px;
+}
+#link {
+  color: purple;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  background-color: white;
+}
+body {
+  background-image: url("https://newevolutiondesigns.com/images/freebies/red-wallpaper-29.jpg");
+}
+#recomand {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: cursive;
+}
